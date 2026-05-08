@@ -1,0 +1,24 @@
+retail-sales-intelligence-zimbabwe/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+│   ├── 03_sales_dashboard.ipynb
+│   └── 04_business_insights.ipynb
+│
+├── sql/
+│   └── retail_schema.sql
+│
+├── images/
+│   └── charts/
+│
+├── reports/
+│   └── executive_summary.pdf
+│
+├── requirements.txt
+│
+└── README.md
